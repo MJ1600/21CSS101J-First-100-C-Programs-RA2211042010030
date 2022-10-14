@@ -1,6 +1,8 @@
 #include <stdio.h>
 void main()
 {
+    printf("Register Number: RA2211042010030");
+
    float prin, noy, roi, intrst;
    printf("Enter principal \n");
    scanf("%f", &prin);
