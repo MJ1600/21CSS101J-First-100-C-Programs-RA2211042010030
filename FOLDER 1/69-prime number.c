@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
+    printf("Register Number: RA2211042010030");
+
    int num, i, e = 0;
    printf("Enter a number\n");
    scanf("%d", &num);
