@@ -1,6 +1,8 @@
 #include <stdio.h>
 int main()
 {
+    printf("Register Number: RA2211042010030");
+
    int n, count, sum = 0;
    
    printf("Enter the value of n(positive integer):");
