@@ -10,7 +10,10 @@ char myLetter = 'K';
 
   // Print Variables
   
+printf("Register number: 2211042010030\n");
+
 printf("%d\n", myNum);
+   
 printf("%f\n", myFloatNum);
 printf("%c\n", myLetter);
 
