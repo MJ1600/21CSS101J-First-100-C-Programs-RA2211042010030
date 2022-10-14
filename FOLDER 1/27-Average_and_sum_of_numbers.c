@@ -1,6 +1,8 @@
 #include<stdio.h>
 void main()
 {
+   printf("Register Number: RA2211042010030");
+
   int a, b, c, d, e, sum;
   float avg;
   printf("Enter the values for 5 variables: ");
