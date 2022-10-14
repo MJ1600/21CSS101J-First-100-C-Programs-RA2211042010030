@@ -2,6 +2,8 @@
 int main()
 { 
   int num1,num2,max;
+  printf("Register number: 2211042010030\n");
+
   printf("Enter two positive integers: ");
   scanf("%d %d", &num1, &num2);
   
