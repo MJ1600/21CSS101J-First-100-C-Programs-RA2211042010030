@@ -1,6 +1,8 @@
 #include<stdio.h>
 int third-last digit(intN)
 {
+  printf("Register Number: RA2211042010030");
+
  N=N/100;
  return N%10;
  }
