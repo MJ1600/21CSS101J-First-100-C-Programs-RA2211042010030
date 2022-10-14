@@ -4,6 +4,8 @@
 int main()
 {
   int s;
+  printf("Register number: 2211042010030\n");
+
   printf("Enter the value of side");
   scanf("%d",&s);
   
