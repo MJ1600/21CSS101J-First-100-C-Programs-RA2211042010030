@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
+   printf("Register Number: RA2211042010030");
+
   /* This program generates a series of random numbers used as test data for another program by using the rand() function */
   
   int loop_control;
