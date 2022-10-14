@@ -2,6 +2,9 @@
 int main()
 {
   char c;
+  
+   printf("Register Number: RA2211042010030");
+
   printf("Enter a character: ");
   scanf("%c", &c);
   printf("ASCII value of %c=%d", c,c);
